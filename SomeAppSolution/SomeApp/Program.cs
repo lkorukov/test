@@ -11,6 +11,7 @@ namespace SomeApp
         static void Main(string[] args)
         {
             System.Console.WriteLine("This is the first change");
+            System.Console.WriteLine("Added a second line and also added a class");
         }
     }
 }
