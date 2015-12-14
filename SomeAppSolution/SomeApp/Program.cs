@@ -12,6 +12,7 @@ namespace SomeApp
         {
             System.Console.WriteLine("This is the first change");
             System.Console.WriteLine("Added a second line and also added a class");
+            System.Console.WriteLine("Added a third line from SECOND project");
         }
     }
 }
