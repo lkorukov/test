@@ -8,6 +8,6 @@ namespace SomeApp
 {
     class AnAddedClass
     {
-
+        private const int AddedAConstant = 5;
     }
 }
