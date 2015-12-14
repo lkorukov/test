@@ -5,3 +5,9 @@ C:\Users\Lyubo\Desktop\Repo 11\test\SomeAppSolution\SomeApp\bin\Debug\SomeApp.pd
 C:\Users\Lyubo\Desktop\Repo 11\test\SomeAppSolution\SomeApp\obj\Debug\SomeApp.csprojResolveAssemblyReference.cache
 C:\Users\Lyubo\Desktop\Repo 11\test\SomeAppSolution\SomeApp\obj\Debug\SomeApp.exe
 C:\Users\Lyubo\Desktop\Repo 11\test\SomeAppSolution\SomeApp\obj\Debug\SomeApp.pdb
+C:\Users\Lyubo\Desktop\Repo 22\test\SomeAppSolution\SomeApp\bin\Debug\SomeApp.exe.config
+C:\Users\Lyubo\Desktop\Repo 22\test\SomeAppSolution\SomeApp\obj\Debug\SomeApp.exe
+C:\Users\Lyubo\Desktop\Repo 22\test\SomeAppSolution\SomeApp\obj\Debug\SomeApp.pdb
+C:\Users\Lyubo\Desktop\Repo 22\test\SomeAppSolution\SomeApp\bin\Debug\SomeApp.exe
+C:\Users\Lyubo\Desktop\Repo 22\test\SomeAppSolution\SomeApp\bin\Debug\SomeApp.pdb
+C:\Users\Lyubo\Desktop\Repo 22\test\SomeAppSolution\SomeApp\obj\Debug\SomeApp.csprojResolveAssemblyReference.cache
