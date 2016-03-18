@@ -10,11 +10,13 @@ namespace SomeApp
     {
         static void Main(string[] args)
         {
+			SECOND
             System.Console.WriteLine("This is the first change");
-			System.Console.WriteLine("Added a third line from gfdsgfdsj project");
-			asfjsajfsaf
+			System.Console.WriSECONDteLine("Added a third line from gfdsgfdsj project");
+			asfjsajfsafSECOND
 			asjdasifjsa
-			asjdifq9jfwq9
+			SECONDSECONDasjdifq9jfwq9
+			sadasfwqk0)(I9sjdj2)
         }
     }
 }
